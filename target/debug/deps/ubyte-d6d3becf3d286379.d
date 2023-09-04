@@ -1,0 +1,11 @@
+/Users/georgeking/Documents/projects/cv-generator/target/debug/deps/ubyte-d6d3becf3d286379.rmeta: /Users/georgeking/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.3/src/lib.rs /Users/georgeking/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.3/src/arithmetic.rs /Users/georgeking/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.3/src/byte_unit.rs /Users/georgeking/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.3/src/parse.rs /Users/georgeking/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.3/src/ser_de.rs
+
+/Users/georgeking/Documents/projects/cv-generator/target/debug/deps/libubyte-d6d3becf3d286379.rlib: /Users/georgeking/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.3/src/lib.rs /Users/georgeking/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.3/src/arithmetic.rs /Users/georgeking/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.3/src/byte_unit.rs /Users/georgeking/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.3/src/parse.rs /Users/georgeking/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.3/src/ser_de.rs
+
+/Users/georgeking/Documents/projects/cv-generator/target/debug/deps/ubyte-d6d3becf3d286379.d: /Users/georgeking/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.3/src/lib.rs /Users/georgeking/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.3/src/arithmetic.rs /Users/georgeking/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.3/src/byte_unit.rs /Users/georgeking/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.3/src/parse.rs /Users/georgeking/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.3/src/ser_de.rs
+
+/Users/georgeking/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.3/src/lib.rs:
+/Users/georgeking/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.3/src/arithmetic.rs:
+/Users/georgeking/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.3/src/byte_unit.rs:
+/Users/georgeking/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.3/src/parse.rs:
+/Users/georgeking/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.3/src/ser_de.rs:
