@@ -170,8 +170,6 @@ fn format_reference(r: &Reference) -> String {
 #[post("/generate", format = "json", data = "<CV_input>")]
 fn generate_CV(CV_input: Json<CVInput>) -> String {
     let latex_code = generate_latex(&CV_input);
-    // For now, we're just returning the LaTeX code.
-    // Later, you can integrate a LaTeX compiler to return a PDF.
     latex_code
 }
 
